@@ -26,44 +26,6 @@ For derived projects, original authors and upstream projects are always credited
 
 Disruption01-specific compatibility work, ports, backports, and additional features are documented separately from upstream functionality.
 
-## Featured Projects
-
-### BiS-Tooltip — WoW 3.3.5a
-
-Backport of the addon BiS-Tooltip for World of Warcraft 3.3.5a.
-
-https://github.com/disruption01/BiS-Tooltip_335a_backport
-
-### Auctionator — WoW 3.3.5a
-
-WoW 3.3.5a backport of Auctionator, maintained by Disruption01.
-
-https://github.com/disruption01/Auctionator335a_backport
-
-### MailBoxOpenAll — WoW 3.3.5a
-
-A lightweight Open All mailbox addon for World of Warcraft 3.3.5a, with automatic item and money collection and Auction House mail cleanup.
-
-https://github.com/disruption01/MailBoxOpenAll_335a
-
-### NovaInstanceTracker — WoW 3.3.5a
-
-WoW 3.3.5a backport of NovaInstanceTracker, maintained by Disruption01.
-
-https://github.com/disruption01/NovaInstanceTracker_3.3.5a_backport
-
-### SinStats — WoW 3.3.5a
-
-WoW 3.3.5a backport of SinStats, maintained by Disruption01.
-
-https://github.com/disruption01/Sinstats_335a_backport
-
-### Baganator — WoW 3.3.5a
-
-World of Warcraft 3.3.5a backport of Baganator and Syndicator, maintained by Disruption01.
-
-https://github.com/disruption01/Baganator_335a_backport
-
 ## Project Philosophy
 
 My goal is to keep useful World of Warcraft addons available across legacy and current Classic clients while respecting the work of their original developers.
